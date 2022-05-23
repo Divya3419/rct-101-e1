@@ -3,7 +3,9 @@ import TaskApp from "./components/TaskApp"
 
 function App() {
   return <div>
-    <Add
+    <AddTask
+
+    
   </div>;
 }
 
