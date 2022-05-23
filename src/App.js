@@ -1,7 +1,10 @@
 import React from "react";
+import TaskApp from "./components/TaskApp"
 
 function App() {
-  return <div>{/* Code Here */}</div>;
+  return <div>
+    <Add
+  </div>;
 }
 
 export default App;
